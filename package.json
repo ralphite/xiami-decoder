@@ -1,0 +1,32 @@
+{
+  "name": "xiami-decoder",
+  "version": "0.1.0",
+  "description": "xiami mp3 url decoder",
+  "main": "xiami-decoder.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadongwen/xiami-decoder.git"
+  },
+  "keywords": [
+    "xiami",
+    "mp3"
+  ],
+  "author": "Ralph Wen <ralph.wen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yadongwen/xiami-decoder/issues"
+  },
+  "homepage": "https://github.com/yadongwen/xiami-decoder#readme"
+}
