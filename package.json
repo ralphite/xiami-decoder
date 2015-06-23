@@ -1,15 +1,14 @@
 {
   "name": "xiami-decoder",
-  "version": "0.1.0",
-  "description": "xiami mp3 url decoder",
-  "main": "xiami-decoder.js",
+  "version": "0.1.1",
+  "description": "xiami.com mp3 url decoder",
+  "main": "decoder.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "chai": "^3.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "chai": "^3.0.0",
     "mocha": "^2.2.5"
   },
   "scripts": {
